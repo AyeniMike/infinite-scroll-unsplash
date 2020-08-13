@@ -37,16 +37,12 @@ h1 {
 
 /* Image Container */
 .image-container {
-<<<<<<< HEAD
   margin: 10px 20%;
-=======
   margin: 10 30%;
->>>>>>> a23e62e83f4de021852b0da366f98f03ea4a8d4f
 }
 
 .image-container img {
   width: 100%;
-<<<<<<< HEAD
   margin-top: 5px;
 }
 
@@ -58,7 +54,6 @@ h1 {
 
   h1 {
     font-size: 30px;
-=======
   margin-top: 10px;
 }
 
@@ -70,6 +65,5 @@ h1 {
 
   .image-container {
     margin: 10px;
->>>>>>> a23e62e83f4de021852b0da366f98f03ea4a8d4f
   }
 }
